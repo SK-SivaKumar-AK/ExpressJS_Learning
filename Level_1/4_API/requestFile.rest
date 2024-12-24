@@ -1,0 +1,11 @@
+//Get http://localhost:3500/api
+
+//GET http://localhost:3500/api/1
+
+POST http://localhost:3500/api
+Content-Type: application/json
+
+{
+    "firstName" : "Seethalai",
+    "lastName" : "Rajan"
+}
