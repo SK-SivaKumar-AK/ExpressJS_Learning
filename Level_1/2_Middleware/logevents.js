@@ -16,4 +16,10 @@ const logEvents = async (message) => {
     }
 }
 
-module.exports = logEvents;
+const logger = (req , res , next) => {
+    logEvents(`${req.method}\t${req.path}`);
+    console.log(`${req.method} ${req.path}`);
+    next();
+}
+
+module.exports = { logEvents , logger };
