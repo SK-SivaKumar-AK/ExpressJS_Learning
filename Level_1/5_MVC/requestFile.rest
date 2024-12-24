@@ -1,0 +1,27 @@
+# GET http://localhost:3500/api
+
+# GET http://localhost:3500/api/2
+
+# POST http://localhost:3500/api
+# Content-Type: application/json
+
+# {
+#     "firstName" : "Seethalai",
+#     "lastName" : "Rajan"
+# }
+
+# PUT  http://localhost:3500/api
+# Content-Type: application/json
+
+# {
+#     "id" : 2,
+#     "firstName" : "Sandy",
+#     "lastName" : "Santhosh Ram"
+# }
+
+# DELETE  http://localhost:3500/api
+# Content-Type: application/json
+
+# {
+#     "id" : 2
+# }
