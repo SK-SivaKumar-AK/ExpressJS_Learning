@@ -1,0 +1,23 @@
+Tue Dec 24 2024 20:57:03 GMT+0530 (India Standard Time)		GET	/
+Tue Dec 24 2024 20:57:03 GMT+0530 (India Standard Time)		GET	/css/style.css
+Tue Dec 24 2024 20:57:09 GMT+0530 (India Standard Time)		GET	/subdir
+Tue Dec 24 2024 20:57:09 GMT+0530 (India Standard Time)		Error: ENOENT: no such file or directory, stat 'C:\Users\Sivakumar SK\OneDrive\Documents\Studies\ExpressJS_Learning\Level_1\views\subdir\index.html'
+Tue Dec 24 2024 20:58:15 GMT+0530 (India Standard Time)		GET	/subdir/test
+Tue Dec 24 2024 20:58:15 GMT+0530 (India Standard Time)		Error: ENOENT: no such file or directory, stat 'C:\Users\Sivakumar SK\OneDrive\Documents\Studies\ExpressJS_Learning\Level_1\views\subdir\test.html'
+Tue Dec 24 2024 20:58:44 GMT+0530 (India Standard Time)		GET	/subdir/
+Tue Dec 24 2024 20:58:44 GMT+0530 (India Standard Time)		GET	/subdir/css/style.css
+Tue Dec 24 2024 20:58:55 GMT+0530 (India Standard Time)		GET	/subdir/test
+Tue Dec 24 2024 20:58:55 GMT+0530 (India Standard Time)		GET	/subdir/css/style.css
+Tue Dec 24 2024 21:03:49 GMT+0530 (India Standard Time)		GET	/
+Tue Dec 24 2024 21:03:49 GMT+0530 (India Standard Time)		GET	/css/style.css
+Tue Dec 24 2024 21:03:53 GMT+0530 (India Standard Time)		GET	/new-page
+Tue Dec 24 2024 21:03:53 GMT+0530 (India Standard Time)		GET	/css/style.css
+Tue Dec 24 2024 21:04:00 GMT+0530 (India Standard Time)		GET	/old-page
+Tue Dec 24 2024 21:04:00 GMT+0530 (India Standard Time)		GET	/new-Page.html
+Tue Dec 24 2024 21:04:00 GMT+0530 (India Standard Time)		GET	/css/style.css
+Tue Dec 24 2024 21:04:37 GMT+0530 (India Standard Time)		GET	/subdir/test
+Tue Dec 24 2024 21:04:37 GMT+0530 (India Standard Time)		GET	/subdir/css/style.css
+Tue Dec 24 2024 21:04:42 GMT+0530 (India Standard Time)		GET	/subdir/te
+Tue Dec 24 2024 21:04:42 GMT+0530 (India Standard Time)		GET	/css/style.css
+Tue Dec 24 2024 21:05:51 GMT+0530 (India Standard Time)		GET	/subdir/test
+Tue Dec 24 2024 21:05:51 GMT+0530 (India Standard Time)		GET	/subdir/css/style.css
